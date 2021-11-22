@@ -19,9 +19,9 @@ question @hw3.pdf
 
 ## HW4 -  Marginal Likelihood & Posterior Probability
 
--Fake/fair coin example with a prior probability of form 0.5Beta(20,3) + 0.5Beta(3,20)
+1-Fake/fair coin example with a prior probability of form 0.5Beta(20,3) + 0.5Beta(3,20)
 
--question @hw4.pdf
+2-question @hw4.pdf
 
 ## HW5 - AR Model
 
